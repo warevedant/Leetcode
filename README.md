@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/warevedant/Leetcode/tree/master/0415-add-strings) |
 | [2427-number-of-common-factors](https://github.com/warevedant/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/warevedant/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/warevedant/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/warevedant/Leetcode/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/warevedant/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/warevedant/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/warevedant/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Counting
 |  |
 | ------- |
