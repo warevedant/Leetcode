@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/warevedant/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/warevedant/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0204-count-primes](https://github.com/warevedant/Leetcode/tree/master/0204-count-primes) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/warevedant/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 ## Binary Search
 |  |
 | ------- |
