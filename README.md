@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/warevedant/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/warevedant/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/warevedant/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0204-count-primes](https://github.com/warevedant/Leetcode/tree/master/0204-count-primes) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/warevedant/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0844-backspace-string-compare](https://github.com/warevedant/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/warevedant/Leetcode/tree/master/0925-long-pressed-name) |
 | [1768-merge-strings-alternately](https://github.com/warevedant/Leetcode/tree/master/1768-merge-strings-alternately) |
