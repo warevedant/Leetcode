@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/warevedant/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/warevedant/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/warevedant/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/warevedant/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/warevedant/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/warevedant/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0844-backspace-string-compare](https://github.com/warevedant/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/warevedant/Leetcode/tree/master/0925-long-pressed-name) |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1704-determine-if-string-halves-are-alike](https://github.com/warevedant/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/warevedant/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
