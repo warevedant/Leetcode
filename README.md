@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/warevedant/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/warevedant/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0202-happy-number](https://github.com/warevedant/Leetcode/tree/master/0202-happy-number) |
 | [0844-backspace-string-compare](https://github.com/warevedant/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/warevedant/Leetcode/tree/master/0925-long-pressed-name) |
 | [1768-merge-strings-alternately](https://github.com/warevedant/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/warevedant/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/warevedant/Leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/warevedant/Leetcode/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/warevedant/Leetcode/tree/master/0415-add-strings) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/warevedant/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/warevedant/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/warevedant/Leetcode/tree/master/0205-isomorphic-strings) |
 ## Sliding Window
 |  |
