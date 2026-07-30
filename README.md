@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/warevedant/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/warevedant/Leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/warevedant/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/warevedant/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/warevedant/Leetcode/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/warevedant/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/warevedant/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/warevedant/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/warevedant/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/warevedant/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/warevedant/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/warevedant/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/warevedant/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/warevedant/Leetcode/tree/master/0049-group-anagrams) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/warevedant/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
