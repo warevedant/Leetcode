@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/warevedant/Leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/warevedant/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/warevedant/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/warevedant/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/warevedant/Leetcode/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/warevedant/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/warevedant/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -22,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/warevedant/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/warevedant/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/warevedant/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1539-kth-missing-positive-number](https://github.com/warevedant/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/warevedant/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/warevedant/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/warevedant/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/warevedant/Leetcode/tree/master/0202-happy-number) |
 | [0680-valid-palindrome-ii](https://github.com/warevedant/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/warevedant/Leetcode/tree/master/0844-backspace-string-compare) |
