@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/warevedant/Leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/warevedant/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/warevedant/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/warevedant/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/warevedant/Leetcode/tree/master/0049-group-anagrams) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/warevedant/Leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/warevedant/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/warevedant/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/warevedant/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/warevedant/Leetcode/tree/master/0202-happy-number) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/warevedant/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/warevedant/Leetcode/tree/master/0049-group-anagrams) |
 ## Union-Find
 |  |
