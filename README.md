@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/warevedant/Leetcode/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/warevedant/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/warevedant/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/warevedant/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/warevedant/Leetcode/tree/master/0877-stone-game) |
 | [1539-kth-missing-positive-number](https://github.com/warevedant/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/warevedant/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/warevedant/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/warevedant/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/warevedant/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/warevedant/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/warevedant/Leetcode/tree/master/0877-stone-game) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/warevedant/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
