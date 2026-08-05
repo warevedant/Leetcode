@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/warevedant/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/warevedant/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/warevedant/Leetcode/tree/master/0925-long-pressed-name) |
+| [1446-consecutive-characters](https://github.com/warevedant/Leetcode/tree/master/1446-consecutive-characters) |
 | [1668-maximum-repeating-substring](https://github.com/warevedant/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/warevedant/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/warevedant/Leetcode/tree/master/1768-merge-strings-alternately) |
