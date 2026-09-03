@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/warevedant/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/warevedant/Leetcode/tree/master/0877-stone-game) |
 | [1539-kth-missing-positive-number](https://github.com/warevedant/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/warevedant/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/warevedant/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/warevedant/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/warevedant/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/warevedant/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
 |  |
 | ------- |
