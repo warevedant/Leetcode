@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/warevedant/Leetcode/tree/master/0877-stone-game) |
 | [1539-kth-missing-positive-number](https://github.com/warevedant/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/warevedant/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/warevedant/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/warevedant/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/warevedant/Leetcode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
